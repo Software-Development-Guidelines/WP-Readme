@@ -11,7 +11,23 @@ Index of pages:
 * [Who is using CMS Changelog?](/USERS.md)
 * [How to create an Historical](/HISTORICAL.md)
 
+https://pippinsplugins.com/how-to-properly-format-and-enhance-your-plugins-readme-txt-file-for-the-wordpress-org-repository/
 
+https://make.wordpress.org/themes/2015/04/29/a-revised-readme/
+
+https://wordpress.org/plugins/developers/#readme
+
+https://developer.wordpress.org/plugins/wordpress-org/how-your-readme-txt-works/
+
+https://www.drupal.org/docs/develop/documenting-your-project/readme-template
+
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+
+http://daringfireball.net/projects/markdown/syntax
+
+https://software-development-guidelines.github.io/WP-Readme/
+
+https://generatewp.com/plugin-readme/?clone=test-plugin-readme-txt-file
 # <a name="Summary"></a>Summary
 Readme files
 
