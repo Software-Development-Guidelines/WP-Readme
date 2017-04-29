@@ -3,7 +3,8 @@ Index of pages:
 
 * [Summary](/README.md#Summary)
 * [Introduction](/README.md#Introduction)
-* [Readme](/READMEtxt.md)
+* [Readmetxt.md](/READMEtxt.md)
+* [Readme.txt](/README.txt)
 * [Why CMS Changelog](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
