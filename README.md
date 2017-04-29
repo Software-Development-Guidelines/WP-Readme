@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Index of pages:
+---------------
 
-You can use the [editor on GitHub](https://github.com/Software-Development-Guidelines/WP-Readme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* [Summary](/README.md#Summary)
+* [Introduction](/README.md#Introduction)
+* [Readme](/READMEtxt.md)
+* [Why CMS Changelog](/WHY.md)
+* [FAQ](/FAQ.md)
+* [ABOUT](/ABOUT.md)
+* [Who is using CMS Changelog?](/USERS.md)
+* [How to create an Historical](/HISTORICAL.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# <a name="Summary"></a>Summary
+Readme files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To make your entry in the plugin browser most useful, each plugin should have a readme file named readme.txt that adheres to the WordPress [plugin readme file standard](https://wordpress.org/plugins/files/2016/06/readme.txt). You can put your readme file through the [readme validator](https://wordpress.org/plugins/developers/readme-validator/) to check it. 
+  
+**If you'd like to leave feedback, please [open an issue on GitHub](https://github.com/colomet/CMSchangelog/issues).**
+  
 
-```markdown
-Syntax highlighted code block
+# <a name="Introduction"></a>Introduction
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+   
+   <script src="https://apis.google.com/js/platform.js" async defer></script>
+   <g:plus action="share"></g:plus>
+ 
+---
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Software-Development-Guidelines/WP-Readme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Start page](./)
